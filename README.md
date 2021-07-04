@@ -3,7 +3,7 @@
 **Coffee Machine Assignment for Dunzo Machine Code Round**
 
 
-#It should serve following purposes:
+# It should serve following purposes:
 
 1. It will be serving some beverages.
 2. Each beverage will be made using some ingredients.
@@ -17,7 +17,7 @@
    some methods to refill them.
 9. Please provide functional integration test cases for maximum coverage.
 
-#How to Run/Test
+# How to Run/Test
 
 
 Coffee Machine is the class where all the business logic resides(Please follow the comment blocks around the code for details)
